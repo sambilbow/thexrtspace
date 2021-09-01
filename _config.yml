@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
@@ -122,3 +123,6 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+=======
+theme: jekyll-theme-minimal
+>>>>>>> parent of 3f06acf (Update _config.yml)
