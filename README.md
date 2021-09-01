@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to The XRt Space
 
-You can use the [editor on GitHub](https://github.com/sambilbow/thexrtspace/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website is an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is XRt? Do we really need another acronym?! :art: :sound: :goggles: 
+XRt is any art that uses XR technology as its medium of expression. This includes AR/VR technologies that engage any sensory system, with the chief aim of mediating perception (AR) or synthesizing perception (VR). 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sambilbow/thexrtspace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Part of this website's reason for existence is to broaden our view of XR as a whole, and consider how it can be used to create rich and expressive sensory experiences beyond the typical visual layering paradigm.
