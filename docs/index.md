@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: About The XRt Space
 permalink: /
 nav_order: 1
 ---

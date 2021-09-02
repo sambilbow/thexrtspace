@@ -54,5 +54,5 @@ plugins:
 
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: light
+color_scheme: dark
 logo: "web_logo.png"

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Glossary
+title: Glossary (Soon ™)
 permalink: /glossary
 nav_order: 3
 ---
-`coming soon!`
+`Coming soon!`
