@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AR in the Arts
-permalink: /ar-in-the-arts/
+title: Forms of AR Media
+permalink: /ar-media/
 nav_order: 5
 has_children: true
 ---

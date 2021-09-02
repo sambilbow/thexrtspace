@@ -52,6 +52,3 @@ Participants asked to stop any harassing behaviour are expected to comply immedi
 
 If a participant engages in harassing behaviour, admins may take any action they deem appropriate, up to and including expulsion from all XRt Space forums and identification of the participant as a harasser to other XRt Space members or the general public. 
 
-### Credit 
-
-This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community.
