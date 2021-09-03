@@ -17,8 +17,5 @@ XRt is any art that uses XR technology as its medium of expression. This include
 
 Part of this website's reason for existence is to broaden our view of XR as a whole, and consider how it can be used to create rich and expressive sensory experiences beyond the typical visual layering paradigm.
 
-## Where is all the content?
-It's coming! The (current) sole contributor to the site, [Sam Bilbow](/acknowledgements) is filling this site out in his spare time from research that he's conducted over the last two years for a literature review on AR in the arts. Hopefully by the end of September it will be up to date!
-
 ## A sidenote on VR
-The (current) sole contributor to the site, [Sam Bilbow](/acknowledgements) does not work with VR at all, so at current the site is biased towards AR knowledge and practice. The XRt space is definitely looking for contributors that would be able to fill the VR section of the site with a similar depth content to that found in the AR section!
+I don't work with VR at all, so at current the site is biased towards AR knowledge and practice. The XRt space is definitely looking for contributors that would be able to fill the VR section of the site with a similar depth content to that found in the AR section!
