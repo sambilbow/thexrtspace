@@ -29,7 +29,7 @@ In order to contribute to the examples of AR [forms](https://thexrt.space/ar-med
 ### A sidenote on VR Contributions
 I don't work with VR at all, so at current the site is biased towards AR knowledge and practice. The XRt space is definitely looking for contributors that would be able to fill the VR section of the site with a similar depth content to that found in the AR section!
 
-test citation {% azuma1997 %}
+test citation {% cite azuma1997 %}
 
 
 References
