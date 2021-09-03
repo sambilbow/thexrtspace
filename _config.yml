@@ -28,7 +28,7 @@ twitter_username: thexrtspace
 github_username:  sambilbow
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-scholar
