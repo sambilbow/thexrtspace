@@ -1,5 +1,6 @@
 ---
 layout: default
+last_modified_date: 09:43 03/09/2021
 title: About Us
 permalink: /
 nav_order: 1
@@ -25,9 +26,11 @@ In order to contribute to the examples of AR [forms](https://thexrt.space/ar-med
 3. Commit the changes to your fork
 4. Make a pull request! 
 
-Changes to the above mentioned parts of the website will be available through a [GNU General Public License](LICENSE-GNU-GPL)
-
-The page "What makes AR so special?" is part of my PhD Thesis and is therefore available through a [CC-BY-NC-SA 4.0 License](LICENSE-CC-BY-NC-SA).
-
 ### A sidenote on VR Contributions
 I don't work with VR at all, so at current the site is biased towards AR knowledge and practice. The XRt space is definitely looking for contributors that would be able to fill the VR section of the site with a similar depth content to that found in the AR section!
+
+## Licenses
+
+The majority of content on this website is available via a [GNU General Public License](LICENSE-GNU-GPL)
+
+The page "What makes AR so special?" is part of my PhD Thesis and is therefore available through a [CC-BY-NC-SA 4.0 License](LICENSE-CC-BY-NC-SA).
