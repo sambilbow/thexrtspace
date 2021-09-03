@@ -1,6 +1,6 @@
 ---
 layout: default
-last_modified_date: 09:43 03/09/2021
+last_modified_date: 13:40 03/09/2021
 title: Acknowledgements
 permalink: /acknowledgements
 nav_order: 7
@@ -18,6 +18,6 @@ This site is currently maintained by [Sam Bilbow](https://twitter.com/sambilbow)
 - Research Profile: [University of Sussex](https://profiles.sussex.ac.uk/p376006-sam-bilbow)
 
 ### Licenses
-The majority of content on this website is available via a [GNU General Public License](LICENSE-GNU-GPL)
+The majority of content on this website is available through a [CC-BY-NC-SA 4.0 License](LICENSE-CC-BY-NC-SA)
 
-The page "What makes AR so special?" is part of Sam's PhD Thesis and is therefore available through a [CC-BY-NC-SA 4.0 License](LICENSE-CC-BY-NC-SA).
+The page "What makes AR so special?" is part of Sam's PhD Thesis and is therefore only available through a [CC-BY-NC-ND 4.0 License](LICENSE-CC-BY-NC-ND) for the time being.
