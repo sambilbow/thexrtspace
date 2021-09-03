@@ -1,4 +1,8 @@
-## Welcome to The XRt Space
+
+
+<p align="center">
+  <img  src="web_logo.png">
+</p>
 
 This repository holds the Jekyll source files for The XRt Space website - an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
 
