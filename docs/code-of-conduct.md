@@ -1,18 +1,20 @@
 ---
 layout: default
-last_modified_date: 09:43 03/09/2021
+last_modified_date:  03/09/2021
 title: Code of Conduct
 permalink: /code-of-conduct
 nav_order: 2
 ---
-## Code of Conduct
+# Code of Conduct
+
+## Summary
 The XRt Space is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
 This code of conduct applies to all "The XRt Space" forums, including the Github repository, website, and Discord server, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the admins.
 
 Some XRt Space forums may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-### What counts as harrassment?
+## What counts as harrassment?
 
 - Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neurodivergence, physical appearance, body size, age, race, or religion.
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
@@ -38,7 +40,7 @@ The XRt Space prioritizes marginalized people’s safety over privileged people�
 - Communicating in a ‘tone’ you don’t find congenial
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behaviour or assumptions
 
-### Reporting
+## Reporting
 
 If you are being harassed by a member of The XRt Space, notice that someone else is being harassed, or have any other concerns, please contact the admin on Discord at `vco#0001`. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 

@@ -5,18 +5,15 @@ title: About Us
 permalink: /
 nav_order: 1
 ---
-## Welcome to The XRt Space!
+# Welcome to The XRt Space!
 This website is an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
+{: .fs-6 .fw-300 }
+[Join the Community on Discord](https://discord.gg/p3MmURSBV3){:.btn .btn-blue} [Contribute on Github](https://github.com/sambilbow/thexrtspace){:.btn .btn-purple}
 
 ## What is XRt? Do we really need another acronym?!
 XRt is any art that uses XR technology as its medium of expression. This includes AR/VR technologies that engage any sensory system, with the chief aim of mediating perception (AR) or synthesizing perception (VR) in a manner that emphasises aesthetic experience.
 
 Part of this website's reason for existence is to broaden our view of XR as a whole, and consider how it can be used to create rich and expressive sensory experiences beyond the typical visual layering paradigm.
-
-## Discord Community
-If you are interested in sharing tools & methods for creating XRt or you just want to showcase your work, check out The XRt Space Discord server.
-
-[Join the Server](https://discord.gg/p3MmURSBV3){:.btn .btn-purple}
 
 ## Making Contributions
 In order to contribute to the examples of AR [forms](https://thexrt.space/ar-media/) and [art](https://thexrt.space/ar-art/) and their (eventual) VR counterparts: 

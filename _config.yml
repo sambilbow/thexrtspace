@@ -54,15 +54,17 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-footer_content: "Distributed by an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-SA\">CC-BY-NC-SA V4</a> license, with the exception of <a href=\"https://thexrt.space/ar-implications\">Why is AR so special?</a> which is <a href=\"acknowledgements#licenses\">only</a> available through an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-ND\">CC-BY-NC-ND V4</a> license, Copyright &copy; 2021 Sam Bilbow"
+footer_content: "Distributed by an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-SA\">CC-BY-NC-SA V4</a> license, with the exception of <a href=\"https://thexrt.space/ar-implications\">\"Why is AR so special?\"</a> and its subpages which is <a href=\"acknowledgements#licenses\">only</a> available through an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-ND\">CC-BY-NC-ND V4</a> license, Copyright &copy; 2021 Sam Bilbow"
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
+dark_color_scheme: dark
+
 logo: "web_logo.png"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
@@ -75,3 +77,4 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # Jekyll Scholar Settings
 scholar:
   style: apa
+  sort_by: ascending
