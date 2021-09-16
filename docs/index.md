@@ -20,7 +20,7 @@ In order to contribute to the examples of AR [forms](https://thexrt.space/ar-med
 
 1. Understand your changes will be made available through the [CC-BY-NC-SA V4 License](LICENSE-CC-BY-NC-SA).
 2. Make a fork of this repository
-3. Contribute to their markdown files in [the docs folder](/docs)
+3. Contribute to their markdown files in [the docs folder](https://github.com/sambilbow/thexrtspace/tree/main/docs)
 4. Commit the changes to your fork
 5. Make a pull request! 
 
