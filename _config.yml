@@ -30,10 +30,11 @@ github_username:  sambilbow
 
 # Build settings
 theme: just-the-docs
-plugins:
-  - jekyll-feed
-  - jekyll-scholar
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-scholar
+#   - bibtex-ruby
+#   - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
