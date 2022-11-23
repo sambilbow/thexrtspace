@@ -1,20 +1,22 @@
 
+<div align="center">
 
-<p align="center">
-  <img  src="web_logo.png">
-</p>
+<img  src="web_logo.png" width="300">
+
+[![Contribute](https://img.shields.io/badge/Contribute%20via-GitHub-green?style=for-the-badge&logo=github)](https://github.com/sambilbow/thexrtspace)
+[![Deployment](https://img.shields.io/badge/Deployed%20via-Jekyll-red?style=for-the-badge&logo=jekyll)](https://jekyllrb.com/)
+[![Discord](https://img.shields.io/badge/Chat%20via-XRt%20Space-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p3MmURSBV3)
+
+</div>
+
+#
 
 This repository holds the Jekyll source files for The XRt Space website - an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
 
 ## What is XRt? Do we really need another acronym?!
 XRt is any art that uses XR technology as its medium of expression. This includes AR/VR technologies that engage any sensory system, with the chief aim of mediating perception (AR) or synthesizing perception (VR) in a manner that emphasises aesthetic experience.
 
-Part of this website's reason for existence is to broaden our view of XR as a whole, and consider how it can be used to create rich and expressive sensory experiences beyond the typical visual layering paradigm.
-
-## Discord Community
-If you are interested in sharing tools & methods for creating XRt or you just want to showcase your work, check out The XRt Space Discord server.
-
-[Join the Server](https://discord.gg/p3MmURSBV3){:.btn .btn-purple}
+Part of this website's reason for existence is to broaden our view of XR as a whole, and consider how it can be used to create rich and expressive sensory experiences beyond the typical visual layering paradigm. If you are interested in sharing tools & methods for creating XRt or you just want to showcase your work, check out The XRt Space Discord server.
 
 ## Making Contributions
 In order to contribute to the examples of AR [forms](https://thexrt.space/ar-media/) and [art](https://thexrt.space/ar-art/) and their (eventual) VR counterparts: 
