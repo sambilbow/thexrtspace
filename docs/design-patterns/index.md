@@ -8,7 +8,7 @@ has_children: true
 has_toc: false
 ---
 
-# What is a Design Pazttern?
+# What is a Design Pattern?
 In Chapter 4 of my thesis, I outlined the primary vehicle through which to address the key topics and questions of the thesis: the creation and evaluation of sound ARt experiences. These have, in their development and iteration, drawn on a proto-framework of implicit designerly tendencies and patterns that I have found effective - drawing from points of resistance, and relevant perspectives from the field (Chapter 3). In this section the aim is to outline these patterns in a way that may allow for the creation of similar works of ARt in the future, by members of the experimental music, computational art, and digital humanities fields. The term design pattern here, is borrowed from the field of computer science, where it is taken to describe a set of “communicating objects and classes that are customized to solve a general design problem in a particular context” {% cite gamma1995 %}.
 
 A design pattern thus “names, abstracts, and identifies the key aspects of a common design structure that make it useful for creating a reusable object-oriented design”. So, while as a method it may not operate completely as it would in its native computer science, to address the outstanding aim of the thesis – namely to contribute to the field of experimental music a guide to sound ARt composition – design patterns do serve to be less rigid than frameworks, more problem-focused than guidelines; whilst inheriting the meaningful organisational structure that comes with an object-oriented design approach. Design patterns are characterised by having four elements:
