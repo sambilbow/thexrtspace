@@ -19,7 +19,7 @@ The use of the game engine Unity, and visual programming languages like PureData
 ## Choosing Experience Size and Complexity
 It may be helpful to distinguish between different types of AR “experience sizes" when first starting out developing sound ARt. For doing this, I developed the following three categorisations. Implying or explicitly stating these boundaries (if it is a public installation) is necessary for building trust and ensuring safety. Intentionally setting boundaries may help in the creative process too.
 
-Snippets describe a small-scale clip-like 3 AR Experiences that occur in the approximate interaction space of 30cm3, e.g. between a users hands. The Snippet itself does not supply a full sensorial experience, instead providing two human-to-sense interactions through its AR subforms.
+Snippets describe a small-scale clip-like AR Experiences that occur in the approximate interaction space of 30cm3, e.g. between a users hands. The Snippet itself does not supply a full sensorial experience, instead providing two human-to-sense interactions through its AR subforms.
 
 Scenes describe medium-scale AR Experiences that occur on and around the body, an approximate interaction space of 200cm3. They can be formed from existing Snippets, or created from scratch. They ideally feature more (and higher complexity) human-to-sense interactions, and therefore potentially more interactive relationships between real and virtual elements will be formed.
 
