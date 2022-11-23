@@ -22,7 +22,7 @@ title: The XRt Space
 email: samuel.bilbow@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "thexrtspace" # the subpath of your site, e.g. /blog
 url: "https://thexrt.space" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thexrtspace
 github_username:  sambilbow
@@ -56,7 +56,7 @@ theme: just-the-docs
 #   - vendor/gems/
 #   - vendor/ruby/
 
-footer_content: "Distributed by an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-SA\">CC-BY-NC-SA V4</a> license, with the exception of <a href=\"https://thexrt.space/ar-implications\">\"Why is AR so special?\"</a>, <a href=\"https://thexrt.space/design-patterns\">\"Design Patterns for Sound ARt\"</a>, and their subpages which is <a href=\"acknowledgements#licenses\">only</a> available through an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-ND\">CC-BY-NC-ND V4</a> license, Copyright &copy; 2021 Sam Bilbow"
+footer_content: "Distributed by an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-SA\">CC-BY-NC-SA V4</a> license, with the exception of <a href=\"https://thexrt.space/ar-implications\">\"Why is AR so special?\"</a>, <a href=\"https://thexrt.space/design-patterns\">\"Design Patterns for Sound ARt\"</a>, and their subpages which is <a href=\"acknowledgements#licenses\">only</a> available through an <a href=\"https://github.com/sambilbow/thexrtspace/blob/main/LICENSE-CC-BY-NC-ND\">CC-BY-NC-ND V4</a> license, Copyright &copy; 2022 Sam Bilbow"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light

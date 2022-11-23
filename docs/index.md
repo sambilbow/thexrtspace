@@ -7,7 +7,7 @@ nav_order: 1
 ---
 # Welcome to The XRt Space!
 This website is an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
-{: .fs-6 .fw-300 }
+
 [![Contribute](https://img.shields.io/badge/Contribute%20via-GitHub-green?style=for-the-badge&logo=github)](https://github.com/sambilbow/thexrtspace)
 [![Deployment](https://img.shields.io/badge/Deployed%20via-Jekyll-red?style=for-the-badge&logo=jekyll)](https://jekyllrb.com/)
 [![Discord](https://img.shields.io/badge/Chat%20via-XRt%20Space-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p3MmURSBV3)

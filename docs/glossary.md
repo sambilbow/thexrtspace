@@ -1,7 +1,7 @@
 ---
 layout: default
 last_modified_date:  03/09/2021
-title: Glossary (Soon ™)
+title: Definitions (Soon ™)
 permalink: /glossary
 nav_order: 3
 ---
