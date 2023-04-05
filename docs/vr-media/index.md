@@ -3,7 +3,7 @@ layout: default
 last_modified_date:  03/09/2021
 title: VR Media (Soon ™)
 permalink: /vr-media/
-nav_order: 8
+nav_order: 9
 has_children: false
 nav_exclude: true
 ---

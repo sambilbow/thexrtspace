@@ -30,7 +30,7 @@ github_username:  sambilbow
 
 # Build settings
 theme: just-the-docs
-# plugins:
+
 #   - jekyll-feed
 #   - jekyll-scholar
 #   - bibtex-ruby

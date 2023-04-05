@@ -3,7 +3,7 @@ layout: default
 last_modified_date: 14:23 03/09/2021
 title: Why is AR special? (Soon ™)
 permalink: /ar-implications/
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 
