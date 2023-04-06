@@ -90,7 +90,7 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 |       |                                   |                   |
 |:-----:|:----------------------------------|------------------:|
 | ~~✅~~ | ~~Conference Acceptance~~         | ~~13 March 2023~~ |
-|  🎘   | [Call for Demos](../call/)                    |     07 April 2023 |
+|  🎘   | [Call for Demos](call/)                    |     07 April 2023 |
 | 🧑‍🏫 | Confirmation of Panel Speakers    |     10 April 2023 |
 |  ⏰     | Deadline for Demo Submissions     |       Midnight [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) 28 April 2023            |
 |  📝     | Registration for Workshops Attendees Open   |             `tba` |
