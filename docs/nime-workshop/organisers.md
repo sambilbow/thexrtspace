@@ -51,7 +51,7 @@ parent: Mixed Realities as NIMEs ℹ️
 # Workshop Organisers
 
 ## Sam Bilbow
-**Post-Doctoral Researcher, Experimental Music Technologies Lab, University of Sussex**
+**Postdoctoral Research Fellow, Experimental Music Technologies Lab, University of Sussex**
 
 |                                  |   |
 |:--------------------------------:|--|

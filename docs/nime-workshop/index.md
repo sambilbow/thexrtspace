@@ -80,7 +80,7 @@ nav_exclude: false
 
 The increased use of mixed reality (MR) as a platform for NIME development has appeared out of different disciplines, including the arts, humanities, and computer science, but are potentially restrained by their own fields. With this workshop, we aim to facilitate and co-construct a narrative around the role of MR as NIMEs, and develop a community built on existing concepts of MR through panel talks, demos and theory-generating discussions.
 
-## Workshop Schedule
+## Workshop Outline
 
 |       |         |                         |
 |:------|:-------:|------------------------:|
@@ -99,10 +99,10 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 
 |       |                                   |                   |
 |:-----:|:----------------------------------|------------------:|
-| ~~✅~~ | ~~Conference Acceptance~~         | ~~13 March 2023~~ |
-|  ~~📝~~     | ~~Conference Registration Opens~~   |             ~~22 March 2023~~ |
+| ✅ | Conference Acceptance       | ~~13 March 2023~~ |
+|  📝     | [Conference Registration](https://www.nime2023.org/registration) Opens  |             ~~22 March 2023~~ |
 |  🎉   | [Call for Demos](call)                    |     07 April 2023 |
-|  🎘   | Workshop Registration Opens                   |     `tbd` |
+|  🎘   | Workshop Registration Opens                   |     `tba` |
 | 🧑‍🏫 | Confirmation of [Panel Speakers](panel)    |     10 April 2023 |
 |  ⏰     | Deadline for [Demo Submissions](call)     |       Midnight [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) 28 April 2023            |
 |  ⚠️     | Workshop Registration Closes |             `tba` |
