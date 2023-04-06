@@ -57,7 +57,7 @@ nav_exclude: false
 |    |                   |                                                                                                                                                                                             |
 |:--:|:------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 🎓 | **Conference**    |                                                                                                                   New Interfaces for Musical Expression [(NIME)](https://www.nime2023.org/) |
-| 📅 | **Time and Date** | Morning (Time TBA), 29th May, 2023 ([UTC-6](https://www.timeanddate.com/worldclock/converter.html?iso=20230529T160000&p1=103&p2=224&p3=155&p4=64&p5=179&p6=136&p7=195&p8=2&p9=102&p10=240)) |
+| 📅 | **Time and Date** | Morning (Time TBA), 29th May, 2023 [(UTC-6)](https://www.timeanddate.com/worldclock/converter.html?iso=20230529T160000&p1=103&p2=224&p3=155&p4=64&p5=179&p6=136&p7=195&p8=2&p9=102&p10=240) |
 | 📍 | **Location**      |                                                                                                            [Biblioteca Vasconcelos](https://www.bibliotecavasconcelos.gob.mx/), Mexico City |
 | 📺 | **Online**        |                                                                                                                                                                                    via Zoom |
 | 💬 | **Chat Forum**    |                                                                                                               The XRt Space [#nime-workshop](https://discord.gg/TDKxhWgEuv) Discord channel |
@@ -90,9 +90,9 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 |       |                                   |                   |
 |:-----:|:----------------------------------|------------------:|
 | ~~✅~~ | ~~Conference Acceptance~~         | ~~13 March 2023~~ |
-|  🎘   | [Call for Demos](call/)                    |     07 April 2023 |
-| 🧑‍🏫 | Confirmation of Panel Speakers    |     10 April 2023 |
-|  ⏰     | Deadline for Demo Submissions     |       Midnight [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) 28 April 2023            |
-|  📝     | Registration for Workshops Attendees Open   |             `tba` |
-|  ⚠️     | Registration for Workshops Attendees Closes |             `tba` |
+|  ~~📝~~     | ~~Registration Opens~~   |             ~~22 March 2023~~ |
+|  🎘   | [Call for Demos](call)                    |     07 April 2023 |
+| 🧑‍🏫 | Confirmation of [Panel Speakers](panel)    |     10 April 2023 |
+|  ⏰     | Deadline for [Demo Submissions](call)     |       Midnight [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) 28 April 2023            |
+|  ⚠️     | Registration Closes |             `tba` |
 |  🤖   | Workshop                          |       29 May 2023 |
