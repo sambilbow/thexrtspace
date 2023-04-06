@@ -84,7 +84,7 @@ We have contacted and received confirmation that the following diverse and trans
 | ![](../../assets/images/kiefer.jpg) | Chris's [research](https://luuma.net/) focuses on musician-computer interaction, physical computing, and machine learning.  He performs with custom-made instruments including malleable foam interfaces, touch screen software, interactive sculptures and a modified self-resonating cello.  Chris’ research  often focuses on participatory design and development of interactive music systems in everyday settings. His work also concentrates on machine learning and signal processing for audio and interaction, with an emphasis on nonlinear and dynamical systems.   |
 
 ## Amy Brandon 
-**Doctoral Researcher, Dalhousie University, Halfiax, Nova Scotia**
+**Doctoral Researcher, Dalhousie University**
 
 |                                  |   |
 |:--------------------------------:|--|
