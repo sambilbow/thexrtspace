@@ -1,7 +1,7 @@
 ---
 layout: default
 last_modified_date:  05/04/2023
-title: Mixed Realities as NIMEs
+title: Mixed Realities as NIMEs ℹ️ 
 permalink: /nime-workshop/
 nav_order: 5
 has_children: true
@@ -9,14 +9,14 @@ nav_exclude: false
 ---
 <!-- Heading style -->
 <style>
-  .main-content h1,h2,h3,p{
+  .main-content h1,h2,h3{
     text-align: center;
     margin-bottom: 1em;
   }
 </style>
 
-
 # Mixed Realities as NIMEs - Hybrid Workshop
+
 
 <style>
   /* Remove table borders*/
@@ -51,6 +51,16 @@ nav_exclude: false
   /* Remove header row */
   table thead {
   display: none;
+  }
+  /* Fix uneven padding as a result of removing table header */
+  tbody tr td{
+  padding-top: 12px;
+  }
+
+  .main-content p{
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: justify
   }
 </style>
 
@@ -90,9 +100,24 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 |       |                                   |                   |
 |:-----:|:----------------------------------|------------------:|
 | ~~✅~~ | ~~Conference Acceptance~~         | ~~13 March 2023~~ |
-|  ~~📝~~     | ~~Registration Opens~~   |             ~~22 March 2023~~ |
+|  ~~📝~~     | ~~Conference Registration Opens~~   |             ~~22 March 2023~~ |
 |  🎘   | [Call for Demos](call)                    |     07 April 2023 |
+|  🎘   | Workshop Registration Opens                   |     `tbd` |
 | 🧑‍🏫 | Confirmation of [Panel Speakers](panel)    |     10 April 2023 |
 |  ⏰     | Deadline for [Demo Submissions](call)     |       Midnight [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) 28 April 2023            |
-|  ⚠️     | Registration Closes |             `tba` |
+|  ⚠️     | Workshop Registration Closes |             `tba` |
 |  🤖   | Workshop                          |       29 May 2023 |
+
+<br>
+<br>
+
+<!-- Remove link underline on image -->
+<style>
+    #img-a{
+        background-image: none;
+    }
+</style>
+
+<div align="center">
+  <a id="img-a" href="https://www.nime2023.org/"><img src="../../assets/images/nimexico.png" width="150px"></a>
+</div>
