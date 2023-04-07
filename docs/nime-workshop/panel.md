@@ -88,7 +88,7 @@ We have contacted and received confirmation that the following diverse and trans
 
 |                                  |   |
 |:--------------------------------:|--|
-| ![](../../assets/images/brandon.jpg) | Amy's [research](https://www.amybrandon.ca/) concerns music cognition, virtual reality, improvisation and the guitar. Holding degrees in jazz guitar performance and composition, Amy is currently completing an interdisciplinary PhD in music cognition at Dalhousie University in Halifax, Nova Scotia. She has presented her work at conferences in Australia, USA, Switzerland, Hungary, the UK and at Berklee College of Music, Boston and is the founder and organizer of the new music festival and academic conference The 21st Century Guitar.|
+| ![](../../assets/images/brandon.jpg) | Amy's [research](https://www.amybrandon.ca/) focuses on the boundary between real and digital space, primarily through physically interactive AR sound installations. A lapsed jazz guitarist, Amy continues to research and write on guitar topics including notation, motor control, and digitally-extended instruments. She is currently completing an interdisciplinary PhD at Dalhousie University in Halifax, Nova Scotia, where she teaches composition.|
 
 
 ## Florent Berthaut
