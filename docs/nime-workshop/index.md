@@ -120,4 +120,6 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 
 <div align="center">
   <a id="img-a" href="https://www.nime2023.org/"><img src="../../assets/images/nimexico.png" width="150px"></a>
+  <br>
+  <a href="mailto:s.bilbow@sussex.ac.uk,yichen.wang@anu.edu.au>">Contact Workshop Organisers</a>
 </div>
