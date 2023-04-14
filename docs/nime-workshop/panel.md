@@ -106,14 +106,6 @@ We have contacted and received confirmation that the following diverse and trans
 | ![](../../assets/images/dahl.jpg) | Luke's [research](https://music.virginia.edu/people/profile/ldahl) is primarily situated in the interdisciplinary field of New Interfaces for Musical Expression (NIME) which investigates and explores the intersection of technology and musical practice through the activities of design, musical performance, and empirical research. He is especially interested in systems for digitally-mediated real-time music collaboration, and in the role of human gesture and movement in music. He teaches classes on music technology, audio signal processing, and music interaction design.  |
 
 
-## Hanna Schraffenberger
-**Assistant Professor, Digital Security, Radboud University**
-
-|                                  |   |
-|:--------------------------------:|--|
-| ![](../../assets/images/schraffenberger.jpg) | Hanna's [research](https://www.ru.nl/en/people/schraffenberger-h) sits at the intersection between human-centred technology and value-sensitive design. In particular, she applies user experience research in the domain of privacy, security and data ethics. Her goal is to create privacy-enhancing technologies that are both user-friendly and secure.    |
-
-
 for more information on the Mixed Realities as NIMEs workshop, check out [this page](../nime-workshop/).
 
 <br>
