@@ -67,7 +67,7 @@ nav_exclude: false
 |    |                   |                                                                                                                                                                                             |
 |:--:|:------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 🎓 | **Conference**    |                                                                                                                   New Interfaces for Musical Expression [(NIME)](https://www.nime2023.org/) |
-| 📅 | **Time and Date** | Morning (Time TBA), 29th May, 2023 [(UTC-6)](https://www.timeanddate.com/worldclock/converter.html?iso=20230529T160000&p1=103&p2=224&p3=155&p4=64&p5=179&p6=136&p7=195&p8=2&p9=102&p10=240) |
+| 📅 | **Time and Date** | 09:00 - 12:00, 29th May, 2023 [(UTC-6)](https://www.timeanddate.com/worldclock/converter.html?iso=20230529T150000&p1=103&p2=224&p3=155&p4=64&p5=179&p6=136&p7=195&p8=2&p9=102&p10=240) |
 | 📍 | **Location**      |                                                                                                            [Biblioteca Vasconcelos](https://www.bibliotecavasconcelos.gob.mx/), Mexico City |
 | 📺 | **Online**        |                                                                                                                                                                                    via Zoom |
 | 💬 | **Chat Forum**    |                                                                                                               The XRt Space [#nime-workshop](https://discord.gg/TDKxhWgEuv) Discord channel |
@@ -97,16 +97,16 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 
 ## Important Dates
 
-|       |                                   |                   |
-|:-----:|:----------------------------------|------------------:|
-| ✅ | Conference Acceptance       | ~~13 March 2023~~ |
-|  📝     | [Conference Registration](https://www.nime2023.org/registration) Opens  |             ~~22 March 2023~~ |
-|  🎉   | [Call for Demos](call)                    |     07 April 2023 |
-|  🎘   | Workshop Registration Opens                   |     `tba` |
-| 🧑‍🏫 | Confirmation of [Panel Speakers](panel)    |     10 April 2023 |
-|  ⏰     | Deadline for [Demo Submissions](call)     |       Midnight [AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) 28 April 2023            |
-|  ⚠️     | Workshop Registration Closes |             `tba` |
-|  🤖   | Workshop                          |       29 May 2023 |
+|       |                                                                        |                                                                               |
+|:-----:|:-----------------------------------------------------------------------|------------------------------------------------------------------------------:|
+|   ✅   | Conference Acceptance                                                  |                                                             ~~13 March 2023~~ |
+|  📝   | [Conference Registration](https://www.nime2023.org/registration) Opens |                                                             ~~22 March 2023~~ |
+|  🎉   | [Call for Demos](call)                                                 |                                                                 ~~07 April 2023~~ |
+|  🎘   | [Workshop Registration](https://bit.ly/nime2023_workshopsregistration) Opens                                            |                                                                         ~~03 May 2023~~ |
+| 🧑‍🏫 | Confirmation of [Panel Speakers](panel)                                |                                                                 ~~10 April 2023~~ |
+|   ⏰   | Deadline for [Demo Submissions](call)                                  | ~~28 April 2023~~ |
+|  ⚠️   | [Workshop Registration](https://bit.ly/nime2023_workshopsregistration) Closes                                           |                                                                         19 May 2023 |
+|  🤖   | Workshop                                                               |                                                                   29 May 2023 |
 
 <br>
 <br>

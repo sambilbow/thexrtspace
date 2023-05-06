@@ -7,7 +7,7 @@ nav_order: 3
 parent: Mixed Realities as NIMEs ℹ️
 ---
 
-# Call for Demo Submissions 
+# Call for Demo Submissions (closed)
 
 ![](../../assets/images/call.png)
 
