@@ -98,12 +98,6 @@ We have contacted and received confirmation that the following diverse and trans
 |:--------------------------------:|--|
 | ![](../../assets/images/berthaut.jpg) | Florent's [research](https://hitmuri.net/) explores the connections between 3D User Interfaces (in Mixed and Virtual Reality) and Musical Interaction: "In one direction, 3DUIs open many possibilities for musical expression, in particular for the manipulation of rich musical structures and the visual augmentation of musical performances. In the other direction, Musical Interaction is a rich application domain for 3DUIs, with very specific constraints which both open numerous research questions and provide interesting opportunities for interaction and visualization techniques."    |
 
-## Luke Dahl
-**Assistant Professor of Composition and Computer Technologies, University of Virginia**
-
-|                                  |   |
-|:--------------------------------:|--|
-| ![](../../assets/images/dahl.jpg) | Luke's [research](https://music.virginia.edu/people/profile/ldahl) is primarily situated in the interdisciplinary field of New Interfaces for Musical Expression (NIME) which investigates and explores the intersection of technology and musical practice through the activities of design, musical performance, and empirical research. He is especially interested in systems for digitally-mediated real-time music collaboration, and in the role of human gesture and movement in music. He teaches classes on music technology, audio signal processing, and music interaction design.  |
 
 
 for more information on the Mixed Realities as NIMEs workshop, check out [this page](../nime-workshop/).

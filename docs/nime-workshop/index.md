@@ -1,6 +1,6 @@
 ---
 layout: default
-last_modified_date:  05/04/2023
+last_modified_date:  16/05/2023
 title: Mixed Realities as NIMEs ℹ️ 
 permalink: /nime-workshop/
 nav_order: 5
@@ -73,7 +73,7 @@ nav_exclude: false
 | 💬 | **Chat Forum**    |                                                                                                               The XRt Space [#nime-workshop](https://discord.gg/TDKxhWgEuv) Discord channel |
 
                                                                                                                                                                                     
-<!-- | ✅  | ***Current Status*** |                                                                                                                                                            ***Accepting Demo Submissions*** | -->
+| ✅  | ***Current Status*** |                                                                                                                                                            ***Accepting [Workshop Registration](https://bit.ly/nime2023_workshopsregistration)*** |
 
 
 ## Workshop Description
@@ -84,15 +84,15 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 
 |       |         |                         |
 |:------|:-------:|------------------------:|
-| 10:00 | 10 mins | Organiser Introductions |
-| 10:10 | 40 mins |     Panel Presentations |
-| 10:50 | 10 mins |  Presentation Questions |
-| 11:00 | 20 mins |       Participant Demos |
-| 11:20 | 10 mins |                   Break |
-| 11:30 | 20 mins |       Brainstorm Groups |
-| 11:50 | 50 mins |  Round-table Discussion |
-| 12:40 | 15 mins | Reflections and Wrap-up |
-| 12:55 | 5 mins  |         Closing Remarks |
+| 09:00 | 10 mins | Organiser Introductions |
+| 09:10 | 40 mins |     Panel Presentations |
+| 09:50 | 10 mins |  Presentation Questions |
+| 10:00 | 20 mins |       Participant Demos |
+| 10:20 | 10 mins |                   Break |
+| 10:30 | 20 mins |       Brainstorm Groups |
+| 10:50 | 50 mins |  Round-table Discussion |
+| 11:40 | 15 mins | Reflections and Wrap-up |
+| 11:55 | 5 mins  |         Closing Remarks |
 
 
 ## Important Dates
