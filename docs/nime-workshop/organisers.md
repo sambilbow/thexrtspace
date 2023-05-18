@@ -67,6 +67,9 @@ parent: Mixed Realities as NIMEs ℹ️
 
 for more information on the Mixed Realities as NIMEs workshop, check out [this page](../nime-workshop/).
 
+#### Acknowledgements
+Special thanks to Anıl Çamcı, who provided early insights to the workshop proposal.
+
 <br>
 <br>
 

@@ -5,5 +5,6 @@ title: Examples of AR Art (Soon ™)
 permalink: /ar-art/
 nav_order: 8
 has_children: true
+nav_exclude: true
 ---
 
