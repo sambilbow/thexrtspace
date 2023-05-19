@@ -51,6 +51,10 @@ parent: Mixed Realities as NIMEs ℹ️
 
 # Demo Exhibition
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA1CN3oynXG07cBNkCrDeN9ON_K4ql_AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ## Netz: Two Pieces for a Novel Mixed Reality Musical Instrument
 **[Max Graf](http://maxgraf.space/about/) - Doctoral Researcher, Centre for Digital Music, Queen Mary University, London, UK**
 
@@ -137,3 +141,7 @@ for more information on the Mixed Realities as NIMEs workshop, check out [this p
   <br>
   <a href="mailto:s.bilbow@sussex.ac.uk,yichen.wang@anu.edu.au>">Contact Workshop Organisers</a>
 </div>
+
+<script>
+document.getElementsByClassName('ytp-playlist-menu-button ytp-button')[0].click()
+</script>
