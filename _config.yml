@@ -23,7 +23,7 @@ email: samuel.bilbow@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is an inclusive space for artists, developers, and creative practitioners working with XR (AR/VR) technologies to share tools & methods, and showcase their XRt!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thexrt.space" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sambilbow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thexrtspace
 github_username:  sambilbow
 
