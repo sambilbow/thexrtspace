@@ -75,7 +75,7 @@ parent: Mixed Realities as NIMEs ℹ️
 - What is the role of sensory perception and embodied experience in this topic area?
 - What are the frustrations / difficulties in your practice, or that you see arising in this topic area?
 - How can we work towards more low-cost and open-source systems for MR in this area?
-  - What existing projects could be intgrated into a MR workflow?
+  - What existing projects could be integrated into a MR workflow?
 
 **[Padlet Board](https://padlet.com/sbilbow/mixed-realities-as-nimes-am7161osl7ytzthf)**
 
@@ -101,7 +101,7 @@ parent: Mixed Realities as NIMEs ℹ️
 </style>
 
 <div align="center">
-  <a id="img-a" href="https://www.nime2023.org/"><img src="/thexrtspace/assets/images/nimexico.png" width="150px"></a>
+  <a id="img-a" href="https://www.nime2023.org/"><img src="/assets/images/nimexico.png" width="150px"></a>
   <br>
   <a href="mailto:s.bilbow@sussex.ac.uk,yichen.wang@anu.edu.au>">Contact Workshop Organisers</a>
 </div>

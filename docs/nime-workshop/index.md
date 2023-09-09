@@ -70,15 +70,17 @@ nav_exclude: false
 | 📅 | **Time and Date** | 09:00 - 12:00, 29th May, 2023 [(UTC-6)](https://www.timeanddate.com/worldclock/converter.html?iso=20230529T150000&p1=103&p2=224&p3=155&p4=64&p5=179&p6=136&p7=195&p8=2&p9=102&p10=240) |
 | 📍 | **Location**      |                                                                                                            [Biblioteca Vasconcelos](https://www.bibliotecavasconcelos.gob.mx/), Mexico City |
 | 📺 | **Online**        |                                                                                                                                                                                    via Zoom |
-| 💬 | **Chat Forum**    |                                                                                                               The XRt Space [#nime-workshop](https://discord.gg/TDKxhWgEuv) Discord channel |
-
-                                                                                                                                                                                    
-| ✅  | ***Current Status*** |                                                                                                                                                            ***Accepting [Workshop Registration](https://bit.ly/nime2023_workshopsregistration)*** |
-
+| 💬 | **Chat Forum**    |                                                                                                               The XRt Space [#nime-workshop](https://discord.gg/TDKxhWgEuv) Discord channel |                                                                            
+| ✅  | ***Current Status*** |                                                                                                                                                            ***Workshop Completed*** |
 
 ## Workshop Description
 
 The increased use of mixed reality (MR) as a platform for NIME development has appeared out of different disciplines, including the arts, humanities, and computer science, but are potentially restrained by their own fields. With this workshop, we aim to facilitate and co-construct a narrative around the role of MR as NIMEs, and develop a community built on existing concepts of MR through panel talks, demos and theory-generating discussions.
+
+<br>
+<div class="table-wrapper" style="display: flex; justify-content: space-between;">
+  <img src="/assets/images/mexico-3.jpg" alt="Group workshop photograph" style="border-radius: 10px; max-width: 100%; height: auto;">
+  </div>
 
 ## Workshop Outline
 
@@ -94,6 +96,11 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 | 11:40 | 15 mins | Reflections and Wrap-up |
 | 11:55 | 5 mins  |         Closing Remarks |
 
+<br>
+<div class="table-wrapper" style="display: flex; justify-content: space-between;">
+  <img src="/assets/images/mexico-1.jpg" alt="Biblioteca Vasconcelos" style="border-radius: 8px; max-width: 50%; height: auto;">
+  <img src="/assets/images/mexico-2.jpg" alt="NIME Conference Poster" style="border-radius: 8px; max-width: 50%; height: auto;">
+</div>
 
 ## Important Dates
 
@@ -105,8 +112,8 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 |  🎘   | [Workshop Registration](https://bit.ly/nime2023_workshopsregistration) Opens                                            |                                                                         ~~03 May 2023~~ |
 | 🧑‍🏫 | Confirmation of [Panel Speakers](panel)                                |                                                                 ~~10 April 2023~~ |
 |   ⏰   | Deadline for [Demo Submissions](call)                                  | ~~28 April 2023~~ |
-|  ⚠️   | [Workshop Registration](https://bit.ly/nime2023_workshopsregistration) Closes                                           |                                                                         19 May 2023 |
-|  🤖   | Workshop                                                               |                                                                   29 May 2023 |
+|  ⚠️   | [Workshop Registration](https://bit.ly/nime2023_workshopsregistration) Closes                                           |                                                                         ~~19 May 2023~~ |
+|  🤖   | Workshop                                                               |                                                                   ~~29 May 2023~~ |
 
 <br>
 <br>
@@ -119,7 +126,7 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 </style>
 
 <div align="center">
-  <a id="img-a" href="https://www.nime2023.org/"><img src="/thexrtspace/assets/images/nimexico.png" width="150px"></a>
+  <a id="img-a" href="https://www.nime2023.org/"><img src="/assets/images/nimexico.png" width="150px"></a>
   <br>
   <a href="mailto:s.bilbow@sussex.ac.uk,yichen.wang@anu.edu.au>">Contact Workshop Organisers</a>
 </div>
