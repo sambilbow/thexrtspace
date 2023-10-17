@@ -79,7 +79,7 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 
 <br>
 <div class="table-wrapper" style="display: flex; justify-content: space-between;">
-  <img src="/assets/images/mexico-3.jpg" alt="Group workshop photograph" style="border-radius: 10px; max-width: 100%; height: auto;">
+  <img src="/thexrtspace/assets/images/mexico-3.jpg" alt="Group workshop photograph" style="border-radius: 10px; max-width: 100%; height: auto;">
   </div>
 
 ## Workshop Outline
@@ -98,8 +98,8 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 
 <br>
 <div class="table-wrapper" style="display: flex; justify-content: space-between;">
-  <img src="/assets/images/mexico-1.jpg" alt="Biblioteca Vasconcelos" style="border-radius: 8px; max-width: 50%; height: auto;">
-  <img src="/assets/images/mexico-2.jpg" alt="NIME Conference Poster" style="border-radius: 8px; max-width: 50%; height: auto;">
+  <img src="/thexrtspace/assets/images/mexico-1.jpg" alt="Biblioteca Vasconcelos" style="border-radius: 8px; max-width: 50%; height: auto;">
+  <img src="/thexrtspace/assets/images/mexico-2.jpg" alt="NIME Conference Poster" style="border-radius: 8px; max-width: 50%; height: auto;">
 </div>
 
 ## Important Dates
@@ -126,7 +126,7 @@ The increased use of mixed reality (MR) as a platform for NIME development has a
 </style>
 
 <div align="center">
-  <a id="img-a" href="https://www.nime2023.org/"><img src="/assets/images/nimexico.png" width="150px"></a>
+  <a id="img-a" href="https://www.nime2023.org/"><img src="/thexrtspace/assets/images/nimexico.png" width="150px"></a>
   <br>
   <a href="mailto:s.bilbow@sussex.ac.uk,yichen.wang@anu.edu.au>">Contact Workshop Organisers</a>
 </div>
