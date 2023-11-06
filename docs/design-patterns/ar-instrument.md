@@ -11,7 +11,7 @@ When describing the means through which a participant or performer meaningfully 
 
 <p align="center">
 <br>
-<img src="{{ baseurl }}/assets/images/sensorydisplays.png" width="500">
+<img src="/assets/images/sensorydisplays.png" width="500">
 <br>
 Citations from table to be added.
 </p>
