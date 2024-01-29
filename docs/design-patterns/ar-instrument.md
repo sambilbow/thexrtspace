@@ -2,9 +2,9 @@
 layout: default
 last_modified_date:  23/11/2022
 title: Consideration of the AR Instrument
-permalink: /design-patterns/ar-instrument
+permalink: /design-guidelines/ar-instrument
 nav_order: 2
-parent: Design Patterns for Sound ARt
+parent: Design Guidelines for Sound ARt
 ---
 # Consideration of the AR Instrument
 When describing the means through which a participant or performer meaningfully interacts or engages in any kind of information transfer in the AR system, it is through what could be termed the AR Instrument. The following categorisation -- building on the work of {% cite lindeman2007 %} -- may be helpful in considering the plethora of different options available for artists and musicians.

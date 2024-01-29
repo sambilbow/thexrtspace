@@ -2,9 +2,9 @@
 layout: default
 last_modified_date:  23/11/2022
 title: Designing for Rich AR Experience
-permalink: /design-patterns/rich-ar
+permalink: /design-guidelines/rich-ar
 nav_order: 1
-parent: Design Patterns for Sound ARt
+parent: Design Guidelines for Sound ARt
 ---
 # Designing for Rich AR Experience
 Chapter 3 of my thesis drew on a number of theoretical propositions, and put forward that AR has the potential to scaffold new modes of performance and expression in the arts and music, furthermore, that from an enactivist approach experience, this would consist in radically modulating the material, embodied, and spatial experience of participants. This is the starting point for ideating and designing an artistic AR experience in the present thesis. This pattern addresses the issue of the typicality of AR experience being simple interactions with visual overlay devices. It approaches experience ideation from a holistic and multisensory, or “modalities-encompassing” {% cite schraffenberger2018 %} perspective. 
